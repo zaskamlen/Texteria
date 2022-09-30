@@ -37,6 +37,7 @@
 ## Authors
 Создатель
 - [@xtrafrancyz](https://www.github.com/xtrafrancyz)
+
 Опубликовал
 - [@zaskamlen](https://www.github.com/zaskamlen)
 
